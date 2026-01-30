@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Vendor repo cache (keep tracked data)
+vendor/catalogos_sat_JSON/.git/
