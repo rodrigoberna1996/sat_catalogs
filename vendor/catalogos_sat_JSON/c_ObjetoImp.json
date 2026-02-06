@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01",
+    "descripcion": "No objeto de impuesto.",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "02",
+    "descripcion": "Sí objeto de impuesto.",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "03",
+    "descripcion": "Sí objeto del impuesto y no obligado al desglose.",
+    "fechaInicioDeVigencia": "01-01-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "04",
+    "descripcion": "Sí objeto del impuesto y no causa impuesto.",
+    "fechaInicioDeVigencia": "07-10-2022",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "05",
+    "descripcion": "Sí objeto del impuesto, IVA crédito PODEBI.",
+    "fechaInicioDeVigencia": "06-12-2023",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "06",
+    "descripcion": "Sí objeto del IVA, No traslado IVA.",
+    "fechaInicioDeVigencia": "13-12-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "07",
+    "descripcion": "No traslado del IVA, Sí desglose IEPS.",
+    "fechaInicioDeVigencia": "13-12-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "08",
+    "descripcion": "No traslado del IVA, No desglose IEPS.",
+    "fechaInicioDeVigencia": "13-12-2024",
+    "fechaFinDeVigencia": ""
+  }
+]
