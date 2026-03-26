@@ -2,6 +2,9 @@ import logging
 from logging.config import dictConfig
 from typing import List
 
+from dotenv import load_dotenv
+load_dotenv()
+
 from fastapi import Depends, FastAPI, HTTPException, Query, Request
 from fastapi.responses import JSONResponse
 from slowapi import _rate_limit_exceeded_handler
