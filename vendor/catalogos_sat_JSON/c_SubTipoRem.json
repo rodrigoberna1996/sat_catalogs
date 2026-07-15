@@ -1,0 +1,126 @@
+[
+  {
+    "id": "CTR001",
+    "descripcion": "Caballete"
+  },
+  {
+    "id": "CTR002",
+    "descripcion": "Caja"
+  },
+  {
+    "id": "CTR003",
+    "descripcion": "Caja Abierta"
+  },
+  {
+    "id": "CTR004",
+    "descripcion": "Caja Cerrada"
+  },
+  {
+    "id": "CTR005",
+    "descripcion": "Caja De Recolección Con Cargador Frontal"
+  },
+  {
+    "id": "CTR006",
+    "descripcion": "Caja Refrigerada"
+  },
+  {
+    "id": "CTR007",
+    "descripcion": "Caja Seca"
+  },
+  {
+    "id": "CTR008",
+    "descripcion": "Caja Transferencia"
+  },
+  {
+    "id": "CTR009",
+    "descripcion": "Cama Baja o Cuello Ganso"
+  },
+  {
+    "id": "CTR010",
+    "descripcion": "Chasis Portacontenedor"
+  },
+  {
+    "id": "CTR011",
+    "descripcion": "Convencional De Chasis"
+  },
+  {
+    "id": "CTR012",
+    "descripcion": "Equipo Especial"
+  },
+  {
+    "id": "CTR013",
+    "descripcion": "Estacas"
+  },
+  {
+    "id": "CTR014",
+    "descripcion": "Góndola Madrina"
+  },
+  {
+    "id": "CTR015",
+    "descripcion": "Grúa Industrial"
+  },
+  {
+    "id": "CTR016",
+    "descripcion": "Grúa"
+  },
+  {
+    "id": "CTR017",
+    "descripcion": "Integral"
+  },
+  {
+    "id": "CTR018",
+    "descripcion": "Jaula"
+  },
+  {
+    "id": "CTR019",
+    "descripcion": "Media Redila"
+  },
+  {
+    "id": "CTR020",
+    "descripcion": "Pallet o Celdillas"
+  },
+  {
+    "id": "CTR021",
+    "descripcion": "Plataforma"
+  },
+  {
+    "id": "CTR022",
+    "descripcion": "Plataforma Con Grúa"
+  },
+  {
+    "id": "CTR023",
+    "descripcion": "Plataforma Encortinada"
+  },
+  {
+    "id": "CTR024",
+    "descripcion": "Redilas"
+  },
+  {
+    "id": "CTR025",
+    "descripcion": "Refrigerador"
+  },
+  {
+    "id": "CTR026",
+    "descripcion": "Revolvedora"
+  },
+  {
+    "id": "CTR027",
+    "descripcion": "Semicaja"
+  },
+  {
+    "id": "CTR028",
+    "descripcion": "Tanque"
+  },
+  {
+    "id": "CTR029",
+    "descripcion": "Tolva"
+  },
+  {
+    "id": "CTR031",
+    "descripcion": "Volteo"
+  },
+  {
+    "id": "CTR032",
+    "descripcion": "Volteo Desmontable"
+  }
+]

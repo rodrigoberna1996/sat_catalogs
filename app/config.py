@@ -28,4 +28,6 @@ CARTA_PORTE_CATALOGS = [
     "c_Impuesto",
     "c_TipoFactor",
     "c_TipoRelacion",
+    "c_ObjetoImp",
+    "c_SubTipoRem",
 ]
