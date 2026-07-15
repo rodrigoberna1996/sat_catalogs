@@ -29,5 +29,6 @@ CARTA_PORTE_CATALOGS = [
     "c_TipoFactor",
     "c_TipoRelacion",
     "c_ObjetoImp",
+    "c_ConfigAutotransporte",
     "c_SubTipoRem",
 ]

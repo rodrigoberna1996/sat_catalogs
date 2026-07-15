@@ -48,13 +48,14 @@ Los JSON se encuentran en `vendor/catalogos_sat_JSON/`. Si deseas usar una ruta 
 La mayoría de los archivos provienen del mirror [bambucode/catalogos_sat_JSON](https://github.com/bambucode/catalogos_sat_JSON) (catálogos generales de CFDI 3.3/4.0). Esa carpeta **dejó de ser un git submodule** (ver commit `a1544fa`) y ahora son archivos versionados directamente en este repo, así que ya no aplica hacer `git pull` dentro de `vendor/catalogos_sat_JSON`; para actualizarlos hay que reemplazar los JSON manualmente.
 
 Catálogos agregados manualmente porque pertenecen al **complemento Carta Porte** (no están en el mirror de CFDI 3.3/4.0):
+- `c_ConfigAutotransporte` — 34 configuraciones vehiculares vigentes, incluyendo número de ejes, llantas y regla de remolque. Fuente: [XLS oficial del SAT para Carta Porte 3.1](http://omawww.sat.gob.mx/tramitesyservicios/Paginas/documentos/CatalogosCartaPorte31.xls), publicado el 17/06/2024 y vigente desde el 17/07/2024.
 - `c_SubTipoRem` — Subtipo de remolque/semirremolque. Fuente: catálogo oficial del SAT para el complemento Carta Porte (verificado contra [fiscalapi.com](https://docs.fiscalapi.com/catalogs-info/carta-porte-31) y [gncys.com.mx](https://gncys.com.mx/complementos/cartaporte/c_subtiporem.aspx)).
 
 > `c_TipoRem` **no existe** como catálogo oficial del SAT (no aparece en ninguna fuente oficial ni en proyectos de referencia como `phpcfdi/resources-sat-catalogs`). El único campo real que usa el complemento Carta Porte en el nodo `Remolque` es `SubTipoRem`; `tipo_remolque` en `adrh_logistics` es un campo de texto libre interno, no un catálogo del SAT. No se agregó ningún archivo `c_TipoRem.json` para evitar hacer pasar un valor inventado como catálogo oficial.
 
 ## Conjunto sugerido para Carta Porte
 Los catálogos definidos en `app/config.py::CARTA_PORTE_CATALOGS` incluyen:
-`c_ClaveProdServ`, `c_ClaveUnidad`, `c_Pais`, `c_CodigoPostal`, `c_Moneda`, `c_FormaPago`, `c_MetodoPago`, `c_RegimenFiscal`, `c_UsoCFDI`, `c_TipoDeComprobante`, `c_TasaOCuota`, `c_Impuesto`, `c_TipoFactor`, `c_TipoRelacion`, `c_ObjetoImp`, `c_SubTipoRem`.
+`c_ClaveProdServ`, `c_ClaveUnidad`, `c_Pais`, `c_CodigoPostal`, `c_Moneda`, `c_FormaPago`, `c_MetodoPago`, `c_RegimenFiscal`, `c_UsoCFDI`, `c_TipoDeComprobante`, `c_TasaOCuota`, `c_Impuesto`, `c_TipoFactor`, `c_TipoRelacion`, `c_ObjetoImp`, `c_ConfigAutotransporte`, `c_SubTipoRem`.
 Solo se devuelven los que existan físicamente en la carpeta de datos, y se indica cuáles faltan en `missing`.
 
 ## Notas

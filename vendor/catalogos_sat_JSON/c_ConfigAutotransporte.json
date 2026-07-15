@@ -1,0 +1,308 @@
+[
+  {
+    "id": "VL",
+    "descripcion": "Vehículo ligero de carga (2 llantas en el eje delantero y 2 llantas en el eje trasero)",
+    "numeroEjes": "2",
+    "numeroLlantas": "4",
+    "remolque": "0,1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "C2",
+    "descripcion": "Camión Unitario (2 llantas en el eje delantero y 4 llantas en el eje trasero)",
+    "numeroEjes": "2",
+    "numeroLlantas": "6",
+    "remolque": "0",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "C3",
+    "descripcion": "Camión Unitario (2 llantas en el eje delantero y 6 o 8 llantas en los dos ejes traseros)",
+    "numeroEjes": "3",
+    "numeroLlantas": "8 o 10",
+    "remolque": "0",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "C2R2",
+    "descripcion": "Camión-Remolque (6 llantas en el camión y 8 llantas en remolque)",
+    "numeroEjes": "4",
+    "numeroLlantas": "14",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "C3R2",
+    "descripcion": "Camión-Remolque (10 llantas en el camión y 8 llantas en remolque)",
+    "numeroEjes": "5",
+    "numeroLlantas": "18",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "C2R3",
+    "descripcion": "Camión-Remolque (6 llantas en el camión y 12 llantas en remolque)",
+    "numeroEjes": "5",
+    "numeroLlantas": "18",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "C3R3",
+    "descripcion": "Camión-Remolque (10 llantas en el camión y 12 llantas en remolque)",
+    "numeroEjes": "6",
+    "numeroLlantas": "22",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "T2S1",
+    "descripcion": "Tractocamión Articulado (6 llantas en el tractocamión, 4 llantas en el semirremolque)",
+    "numeroEjes": "3",
+    "numeroLlantas": "10",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "T2S2",
+    "descripcion": "Tractocamión Articulado (6 llantas en el tractocamión, 8 llantas en el semirremolque)",
+    "numeroEjes": "4",
+    "numeroLlantas": "14",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "T2S3",
+    "descripcion": "Tractocamión Articulado (6 llantas en el tractocamión, 12 llantas en el semirremolque)",
+    "numeroEjes": "5",
+    "numeroLlantas": "18",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "T3S1",
+    "descripcion": "Tractocamión Articulado (10 llantas en el tractocamión, 4 llantas en el semirremolque)",
+    "numeroEjes": "4",
+    "numeroLlantas": "14",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "T3S2",
+    "descripcion": "Tractocamión Articulado (10 llantas en el tractocamión, 8 llantas en el semirremolque)",
+    "numeroEjes": "5",
+    "numeroLlantas": "18",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "T3S3",
+    "descripcion": "Tractocamión Articulado (10 llantas en el tractocamión, 12 llantas en el semirremolque)",
+    "numeroEjes": "6",
+    "numeroLlantas": "22",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "T2S1R2",
+    "descripcion": "Tractocamión Semirremolque-Remolque (6 llantas en el tractocamión, 4 llantas en el semirremolque y 8 llantas en el remolque)",
+    "numeroEjes": "5",
+    "numeroLlantas": "18",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "T2S2R2",
+    "descripcion": "Tractocamión Semirremolque-Remolque (6 llantas en el tractocamión, 8 llantas en el semirremolque y 8 llantas en el remolque)",
+    "numeroEjes": "6",
+    "numeroLlantas": "22",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "T2S1R3",
+    "descripcion": "Tractocamión Semirremolque-Remolque (6 llantas en el tractocamión, 4 llantas en el semirremolque y 12 llantas en el remolque)",
+    "numeroEjes": "6",
+    "numeroLlantas": "22",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "T3S1R2",
+    "descripcion": "Tractocamión Semirremolque-Remolque (10 llantas en el tractocamión, 4 llantas en el semirremolque y 8 llantas en el remolque)",
+    "numeroEjes": "6",
+    "numeroLlantas": "22",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "T3S1R3",
+    "descripcion": "Tractocamión Semirremolque-Remolque (10 llantas en el tractocamión, 4 llantas en el semirremolque y 12 llantas en el remolque)",
+    "numeroEjes": "7",
+    "numeroLlantas": "26",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "T3S2R2",
+    "descripcion": "Tractocamión Semirremolque-Remolque (10 llantas en el tractocamión, 8 llantas en el semirremolque y 8 llantas en el remolque)",
+    "numeroEjes": "7",
+    "numeroLlantas": "26",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "T3S2R3",
+    "descripcion": "Tractocamión Semirremolque-Remolque (10 llantas en el tractocamión, 8 llantas en el semirremolque y 12 llantas en el remolque)",
+    "numeroEjes": "8",
+    "numeroLlantas": "30",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "T3S2R4",
+    "descripcion": "Tractocamión Semirremolque-Remolque (10 llantas en el tractocamión, 8 llantas en el semirremolque y 16 llantas en el remolque)",
+    "numeroEjes": "9",
+    "numeroLlantas": "34",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "T2S2S2",
+    "descripcion": "Tractocamión Semirremolque-Semirremolque (6 llantas en el tractocamión, 8 llantas en el semirremolque delantero y 8 llantas en el semirremolque trasero)",
+    "numeroEjes": "6",
+    "numeroLlantas": "22",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "T3S2S2",
+    "descripcion": "Tractocamión Semirremolque-Semirremolque (10 llantas en el tractocamión, 8 llantas en el semirremolque delantero y 8 llantas en el semirremolque trasero)",
+    "numeroEjes": "7",
+    "numeroLlantas": "26",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "T3S3S2",
+    "descripcion": "Tractocamión Semirremolque-Semirremolque (10 llantas en el tractocamión, 12 llantas en el semirremolque delantero y 8 llantas en el semirremolque trasero)",
+    "numeroEjes": "8",
+    "numeroLlantas": "30",
+    "remolque": "1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "OTROEVGP",
+    "descripcion": "Especializado de carga Voluminosa y/o Gran Peso",
+    "numeroEjes": "",
+    "numeroLlantas": "",
+    "remolque": "0,1",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "OTROSG",
+    "descripcion": "Servicio de Grúas",
+    "numeroEjes": "",
+    "numeroLlantas": "",
+    "remolque": "0",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GPLUTA",
+    "descripcion": "Grúa de Pluma Tipo A",
+    "numeroEjes": "",
+    "numeroLlantas": "",
+    "remolque": "0",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GPLUTB",
+    "descripcion": "Grúa de Pluma Tipo B",
+    "numeroEjes": "",
+    "numeroLlantas": "",
+    "remolque": "0",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GPLUTC",
+    "descripcion": "Grúa de Pluma Tipo C",
+    "numeroEjes": "",
+    "numeroLlantas": "",
+    "remolque": "0",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GPLUTD",
+    "descripcion": "Grúa de Pluma Tipo D",
+    "numeroEjes": "",
+    "numeroLlantas": "",
+    "remolque": "0",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GPLATA",
+    "descripcion": "Grúa de Plataforma Tipo A",
+    "numeroEjes": "",
+    "numeroLlantas": "",
+    "remolque": "0",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GPLATB",
+    "descripcion": "Grúa de Plataforma Tipo B",
+    "numeroEjes": "",
+    "numeroLlantas": "",
+    "remolque": "0",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GPLATC",
+    "descripcion": "Grúa de Plataforma Tipo C",
+    "numeroEjes": "",
+    "numeroLlantas": "",
+    "remolque": "0",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "GPLATD",
+    "descripcion": "Grúa de Plataforma Tipo D",
+    "numeroEjes": "",
+    "numeroLlantas": "",
+    "remolque": "0",
+    "fechaInicioDeVigencia": "17-07-2024",
+    "fechaFinDeVigencia": ""
+  }
+]
